@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photography Studio App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="family">Family Photography</string>
+    <string name="portrait">Portrait Photography</string>
+    <string name="website">Picture People Website</string>
+    <string name="txtTitleMain">Photgraphy Studio App</string>
+    <string name="txtTitleFamily">Family Photography</string>
+    <string name="txtTitlePortrait">PortraitPhotography</string>
+    <string name="txtTitleWebsite">Picture People Website</string>
+
+</resources>

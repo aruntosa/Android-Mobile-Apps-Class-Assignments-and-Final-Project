@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Body Mass Index</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Body Mass Index Calculator</string>
+    <string name="hint1">Weight in Pounds</string>
+    <string name="hint2">Height in Inches</string>
+    <string name="btnCompute">Compute BMI</string>
+    <string name="txtResult"/>
+
+</resources>

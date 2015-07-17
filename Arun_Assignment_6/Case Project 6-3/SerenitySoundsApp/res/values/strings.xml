@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Serenity Sounds App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">A Place to Relax</string>
+    <string name="waterfall">Waterfall Image</string>
+    <string name="waves">Waves Image</string>
+    <string name="btnWaterfall">Play Waterfall Music</string>
+    <string name="btnWaves">Play Waves Music</string>
+
+</resources>

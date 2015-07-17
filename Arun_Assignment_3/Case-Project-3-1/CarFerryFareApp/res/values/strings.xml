@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Ferry Fare App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Car Ferry Tickets</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Ferry Image</string>
+    <string name="btnCost">Compute Cost</string>
+    <string-array name="txtGroup">
+        <item >To Cape Marie</item>
+        <item >To Star Island</item>
+    </string-array>
+    <string name="txtResult"/>
+
+</resources>

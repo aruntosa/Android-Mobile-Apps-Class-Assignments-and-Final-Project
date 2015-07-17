@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tool Rental App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Number Of Days</string>
+    <string name="radPowerWasher">Power Washer</string>
+    <string name="radTiller">Tiller</string>
+    <string name="btnCost">Compute Cost</string>
+    <string name="txtTitle">Rent a Tool</string>
+    <string name="txtResult">Result</string>
+
+</resources>

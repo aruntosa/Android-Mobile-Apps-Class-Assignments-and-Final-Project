@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Mortgage Interest App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Home Mortgage Interest</string>
+    <string name="hint1">Monthly payment</string>
+    <string name="hint2">Number of years</string>
+    <string name="hint3">Initial principal loan</string>
+    <string name="btnCompute">Compute Interest</string>
+    <string name="imgDescription">Number of Years Image</string>
+    <string name="txtInterest">Interest Paid</string>
+
+</resources>

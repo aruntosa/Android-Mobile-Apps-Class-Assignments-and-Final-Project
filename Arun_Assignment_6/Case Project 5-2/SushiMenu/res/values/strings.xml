@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sushi Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="salad">Seaweed Salad</string>
+    <string name="sushi">Salmon Sushi</string>
+    <string name="sashimi">Mixed Sashimi</string>
+    <string name="website">Red Ginger Full Website</string>
+    <string name="txtTitleMain">Sushi Menu</string>
+    <string name="txtSalad">Seaweed Salad</string>
+    <string name="txtSushi">Salmon Sushi</string>
+    <string name="txtSashimi">Mixed Sashimi</string>
+    <string name="txtWebsite">Eat at Ginger Website</string>
+
+</resources>

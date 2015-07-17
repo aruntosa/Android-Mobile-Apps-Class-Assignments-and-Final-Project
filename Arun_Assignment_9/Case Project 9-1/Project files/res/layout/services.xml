@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<TableRow>
+	    <ImageView
+	        android:id="@+id/imgSpa1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/spamassage"
+	        android:padding="15sp" />
+	    <TextView 
+	        android:layout_width="700dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/txtMassage"
+	        android:textSize="30sp"
+	        android:paddingRight="40sp" />
+	</TableRow>
+	
+	<TableRow>
+	    <ImageView
+	        android:id="@+id/imgSpa2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/spamanicure"
+	        android:padding="15sp" />
+	    <TextView 
+	        android:layout_width="700dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/txtManicure"
+	        android:textSize="30sp"
+	        android:paddingRight="40sp" />
+	</TableRow>
+</TableLayout>

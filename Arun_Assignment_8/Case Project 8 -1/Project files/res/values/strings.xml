@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Applachian Trail Festival</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgTrail">Trailing Image</string>
+    <string name="txtTitle">Appalachian Trail Festival</string>
+    <string name="txtDescription">Join us for the year long festival celebration of daily hikes throughout the 2,184 miles of the Applachian Trail. There will be short hikes for beginners and longer hikes of more experienced hikers.</string>
+    <string name="btnDate">Select the desired date for Tickets</string>
+
+</resources>
